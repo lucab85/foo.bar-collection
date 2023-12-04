@@ -1,0 +1,13 @@
+ancestor: null
+releases:
+  1.0.0:
+    changes:
+      release_summary: 'This is the first proper release of the ``foo.bar`` collection
+        on 2023-12-04.
+
+        The collection contain the ``hello-world`` filter and the ``my_role`` role.
+
+        '
+    fragments:
+    - 1.0.0.yaml
+    release_date: '2023-12-04'
